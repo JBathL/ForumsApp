@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">GroupF9_InClass08</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_Login">\Login</string>
+    <string name="title_Register">\Create New Account</string>
+    <string name="title_Forums">\Forums</string>
+    <string name="title_Forum">\Forum</string>
+
+    <string name="title_Create">\New Forum</string>
+    <string name="title_Comment">\Forum</string>
+
+    <string name="enterEmail">Enter email.</string>
+    <string name="enterPass">Enter pass.</string>
+    <string name="enterEmailPass">Enter data to start.</string>
+    <string name="enterName">Enter name.</string>
+
+    <string name="enterTitle">Enter title.</string>
+    <string name="enterDescription">Enter description.</string>
+    <string name="enterData">Enter data to continue.</string>
+
+    <string name="rtComment">Must implement Forum / Comment interface.</string>
+    <string name="rtForums">Must implement Forums interface.</string>
+    <string name="rtLogin">Must implement Login interface.</string>
+    <string name="rtRegister">Must implement Register interface.</string>
+    <string name="rtCreateForum">Must implement Create Forum interface.</string>
+
+
+    <string name="et_Email">Email</string>
+    <string name="et_Pass">Password</string>
+    <string name="btn_Register">Create New Account</string>
+    <string name="btn_Login">Login</string>
+    <string name="et_Name">Name</string>
+    <string name="btn_Submit">Submit</string>
+
+    <string name="tv_Cancel">Cancel</string>
+
+    <string name="btn_Logout">Logout</string>
+    <string name="btn_NewForum">New Forum</string>
+
+    <string name="et_ForumTitle">Forum Title</string>
+    <string name="et_ForumDesc">Forum Description</string>
+
+    <string name="tv_PostTitle">Title</string>
+    <string name="tv_Name">Name</string>
+    <string name="tv_PostDesc">Post Description</string>
+    <string name="tv_Date">Date</string>
+    <string name="tv_numLikes">0 Likes |</string>
+    <string name="commentNumberTV">0 Comments</string>
+    <string name="btn_commentPost">Post</string>
+    <string name="et_Comment">Write Comment</string>
+    <string name="tv_CommentName">Name</string>
+
+</resources>
